@@ -1,0 +1,10 @@
+{
+  "summary": {
+    "title": "Juice Shop Threat Model",
+    "description": "Intentionally vulnerable web application."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
