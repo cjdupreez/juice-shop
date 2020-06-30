@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "JuiceShop Threat Model",
+    "owner": "cjdupreez",
+    "description": "An intentionally vulnerable web application developed by OWASP."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "JuiceShop Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "cjdupreez"
+  }
+}
